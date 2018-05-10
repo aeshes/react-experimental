@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Clock from './components/clock/Clock';
+import Login from './components/login/Login';
 
 ReactDOM.render(
-    <Clock />,
+    <Login />,
     document.getElementById('root'));

@@ -1,0 +1,17 @@
+body {
+    background-color: #cccccc;
+}
+
+.login-form {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: blue;
+    opacity: 0.6;
+}
+
+form label {
+    color: white;
+    font-weight: bold;
+}
